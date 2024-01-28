@@ -1,2 +1,2 @@
 # Website
- Daniel McGuire Corporation Website
+ Code for Daniel McGuire Corporation Website
